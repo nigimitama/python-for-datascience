@@ -1,0 +1,7 @@
+pip
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+jupyter-book>=0.7.0b
